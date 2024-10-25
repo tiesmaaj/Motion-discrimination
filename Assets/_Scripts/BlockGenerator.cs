@@ -12,6 +12,7 @@ public class BlockGenerator : MonoBehaviour
     // public int[] y_directions = new int[]{1, -1};
     // public int[] z_directions = new int[]{1, -1};
     public int trialsPerCondition = 10;
+    // github test
 
     public List<TrialDef> GenerateBlock()
     {
